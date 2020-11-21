@@ -1,13 +1,14 @@
 ### Hi there 👋
 - 🔭 I’m currently working on chat app
 - 📫 How to reach me: k1selevde@yandex.ru
+- 🌱 I’m currently learning Jamstack
 <!--
 **k1selevde/k1selevde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
